@@ -240,3 +240,4 @@ VERSION FINALE AMOUR :
 - rose blanche dans le footer ;
 - musique orientale originale du projet conservée ;
 - compte à rebours réglé sur 18:00.
+Mise à jour
